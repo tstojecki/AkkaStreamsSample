@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AkkaStreamsSample.Web", "AkkaStreamsSample.Web\AkkaStreamsSample.Web.csproj", "{5BB68F74-20BA-4D6E-BCDD-EE0D3EF52D67}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AkkaStreamsSample.Console", "AkkaStreamsSample.Console\AkkaStreamsSample.Console.csproj", "{80CDEA5F-E3C5-43C1-8686-96430B1C9857}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AkkaStreamsSample.WebApi", "AkkaStreamsSample.WebApi\AkkaStreamsSample.WebApi.csproj", "{771CC425-9DED-40BA-981F-1893E72E7436}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AkkaStreamsSample", "AkkaStreamsSample\AkkaStreamsSample.csproj", "{BA081A15-2A16-4A48-9603-7276291E3FDB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5BB68F74-20BA-4D6E-BCDD-EE0D3EF52D67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BB68F74-20BA-4D6E-BCDD-EE0D3EF52D67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BB68F74-20BA-4D6E-BCDD-EE0D3EF52D67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BB68F74-20BA-4D6E-BCDD-EE0D3EF52D67}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80CDEA5F-E3C5-43C1-8686-96430B1C9857}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80CDEA5F-E3C5-43C1-8686-96430B1C9857}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80CDEA5F-E3C5-43C1-8686-96430B1C9857}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80CDEA5F-E3C5-43C1-8686-96430B1C9857}.Release|Any CPU.Build.0 = Release|Any CPU
+		{771CC425-9DED-40BA-981F-1893E72E7436}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{771CC425-9DED-40BA-981F-1893E72E7436}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{771CC425-9DED-40BA-981F-1893E72E7436}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{771CC425-9DED-40BA-981F-1893E72E7436}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA081A15-2A16-4A48-9603-7276291E3FDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA081A15-2A16-4A48-9603-7276291E3FDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA081A15-2A16-4A48-9603-7276291E3FDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA081A15-2A16-4A48-9603-7276291E3FDB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
