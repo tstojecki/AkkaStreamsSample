@@ -2,7 +2,7 @@
 Akka streams service with reactjs client
 
 ## Install rabbitmq
-Change from localhost (with default port) if rabbitmq is not running on a different machine/port
+Change from localhost (with default port) if rabbitmq is running on a different machine/port
 
 ## Build reactjs client
 npm install
